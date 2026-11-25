@@ -9,10 +9,7 @@ the automation that was supposed to free up the day.
 import os
 import sys
 
-PUNCHLINE = (
-    "I automated my job with a script, and now I spend eight hours a day "
-    "maintaining the script that does my job."
-)
+PUNCHLINE = "Nothing bonds a team faster than watching the CEO accidentally share his screen and reveal forty-seven open tabs of competitor job listings."
 
 
 def target_dir():
